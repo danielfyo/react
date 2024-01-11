@@ -10,4 +10,12 @@ export function testTemplateStringBehavior(){
     // template strings allow us to simplify the process
     const templateString = `${firstName} ${lastName}`;
     console.log(templateString);
+
+    // we can use it calling methods too
+    const templateString2 = `System says >>  ${getGreetings(firstName, lastName)}`;
+    console.log(templateString2);
+}
+
+function getGreetings(firstName, lastName) {
+    return `Hello: ${firstName} ${lastName}`
 }
