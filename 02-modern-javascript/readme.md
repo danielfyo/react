@@ -28,3 +28,11 @@ For constant we will use const and for variable let, please avoid using var. [wh
 
 ## 2.2 const 
 [commit: a3cfb0e6cedf02648ac78e2ffbb55788fda26d7a](https://github.com/danielfyo/react/commit/a3cfb0e6cedf02648ac78e2ffbb55788fda26d7a)
+
+## 2.3 var 
+[commit: 70447109bb4856e4ef1c29441fdcfdb5a1de5cb2](https://github.com/danielfyo/react/commit/70447109bb4856e4ef1c29441fdcfdb5a1de5cb2)
+
+# 3. Strings 
+
+## 3.1 Template string 
+[commit: 7d87721df8b1477d580e6e2ad7ce5f68500ead1b](https://github.com/danielfyo/react/commit/7d87721df8b1477d580e6e2ad7ce5f68500ead1b)
