@@ -36,3 +36,7 @@ For constant we will use const and for variable let, please avoid using var. [wh
 
 ## 3.1 Template string 
 [commit: 7d87721df8b1477d580e6e2ad7ce5f68500ead1b](https://github.com/danielfyo/react/commit/7d87721df8b1477d580e6e2ad7ce5f68500ead1b)
+
+
+## 3.1 Template string with functions
+[commit: e399a19b0308ea2b3ca32a27c9d131de6326bdb5](https://github.com/danielfyo/react/commit/e399a19b0308ea2b3ca32a27c9d131de6326bdb5)
