@@ -23,4 +23,8 @@
 # 2. Constants and variables
 For constant we will use const and for variable let, please avoid using var. [why?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 
+## 2.1 let 
+[commit: c11363a210f70816e56612c6d5b75c91fad250c1](https://github.com/danielfyo/react/commit/c11363a210f70816e56612c6d5b75c91fad250c1)
 
+## 2.2 const 
+[commit: a3cfb0e6cedf02648ac78e2ffbb55788fda26d7a](https://github.com/danielfyo/react/commit/a3cfb0e6cedf02648ac78e2ffbb55788fda26d7a)
