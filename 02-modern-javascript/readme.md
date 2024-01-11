@@ -40,3 +40,8 @@ For constant we will use const and for variable let, please avoid using var. [wh
 
 ## 3.1 Template string with functions
 [commit: e399a19b0308ea2b3ca32a27c9d131de6326bdb5](https://github.com/danielfyo/react/commit/e399a19b0308ea2b3ca32a27c9d131de6326bdb5)
+
+#4. Objects
+
+## 4.1 Literal objects
+[commit: 37055b912d4f82ea5ae36b93c81e8d12574a6aff](https://github.com/danielfyo/react/commit/37055b912d4f82ea5ae36b93c81e8d12574a6aff)
